@@ -55,13 +55,13 @@ Review your snapshot to ensure it accurately reflects your skills and experience
 ## Examples from Previous Cohorts
 Here are some examples from previous cohorts to help guide you:
 
-![](./assets/snapshot-carlos.png)
-![](./assets/snapshot-fidel.png)
-![](./assets/snapshot-john.png)
-![](./assets/snapshot-kat.png)
-![](./assets/snapshot-marcus.png)
-![](./assets/snapshot-thierry.png)
-![](./assets/snapshot-ximena.png)
+![](assets/snapshot-carlos.png)
+![](assets/snapshot-fidel.png)
+![](assets/snapshot-john.png)
+![](assets/snapshot-kat.png)
+![](assets/snapshot-marcus.png)
+![](assets/snapshot-thierry.png)
+![](assets/snapshot-ximena.png)
 
 ## Quiz
 - Why is it important to have a well-crafted internal profile?
