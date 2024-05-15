@@ -38,7 +38,7 @@ Include a quote that reflects why you are on this journey and your passion for w
 
 ### Login to the Dashboard:
 
-Go to https://dashboard.dpi.dev.
+Go to [https://dashboard.dpi.dev](https://dashboard.dpi.dev).
 If this is your first time logging in, select the "Forgot my password" link, enter your Canvas email, and look for an email verification and sign-in link to set a new password. Check your spam folder if you don't find it in your Inbox.
 
 ### Update Your Profile
