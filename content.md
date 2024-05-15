@@ -5,32 +5,32 @@ In this lesson, you will learn how to set up and manage your internal profile on
 Your internal profile is often the first impression employers will have of you. It should effectively communicate your skills, projects, career highlights, and educational background. Employers are looking for candidates who not only have the technical skills but also demonstrate initiative, problem-solving abilities, and a passion for their field.
 
 ## What You Need to Include
-1. Introduction
+### Introduction
 
 Write a 1-2 sentence introduction that draws the reader in. This should be engaging and give a quick overview of who you are and what you bring to the table.
 
-2. Skills and Projects
+### Skills and Projects
 
 - **Skills**: List both technical and non-technical skills. Focus on skills that are relevant to the job you want and are desirable to employers.
 - **Projects**: Include projects you worked on during the intro course or any relevant projects from the past. Describe what you did, the technologies used, and the outcomes.
 
-3. Real-Time DPI Skill Development
+### Real-Time DPI Skill Development
 
 This section will be continuously updated throughout your training. For now, include skills you gained in the intro course and during your first few weeks in person.
 
-4. Career Highlights
+### Career Highlights
 
 Highlight something special you accomplished in a previous role. This could be a project you led, a significant achievement, or a notable contribution. Be concise, as space is limited.
 
-5. Education
+### Education
 
 Include your most advanced level of education. This can be degrees, certificates, or bootcamps.
 
-6. Fun Fact
+### Fun Fact
 
 Share something interesting about yourself. This helps the reader get to know you on a more personal level.
 
-7. Quote
+### Quote
 
 Include a quote that reflects why you are on this journey and your passion for working in technology.
 
